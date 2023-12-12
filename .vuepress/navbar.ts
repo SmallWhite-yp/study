@@ -1,8 +1,11 @@
 import {NavItem} from "vuepress/config";
 
+/**
+ * 导航栏配置
+ */
 export default [
     {
-        text: "学习路线",
-        link: '/学习路线/'
+        text: "ChatGPT",
+        link: 'https://le.xiaole.club/'
     },
 ] as NavItem[];
